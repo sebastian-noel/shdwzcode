@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shdwzcode
-- 👀 I’m interested in learning how to code
+- 👀 I’m interested in learning how to code and become a software developer
 - 🌱 I’m currently learning c, java, and python
 - 📫 How to reach me: sebastiannoel.sjn@gmail.com 
 - 😄 Pronouns: he/him
